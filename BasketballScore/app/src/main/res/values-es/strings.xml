@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BasketballScore</string>
+    <string name="local">Local</string>
+    <string name="visitor">Visitante</string>
+    <string name="local_won">¡Gana el equipo Local!</string>
+    <string name="visitor_won">¡Ganaron los Visitantes!</string>
+    <string name="it_was_a_tie">Ha sido un empate 😕</string>
+    <string name="not_below_zero">La puntuación no debe bajar más</string>
+    <string name="local_score">%d</string>
+    <string name="visitor_score">%d</string>
+    <string name="local_vs_visitor">Local - Visitante</string>
+</resources>
